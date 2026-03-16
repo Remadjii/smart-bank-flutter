@@ -1,0 +1,3 @@
+*.cpp linguist-vendored
+*.cc linguist-vendored
+*.c linguist-vendored
