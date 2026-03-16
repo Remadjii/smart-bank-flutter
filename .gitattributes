@@ -1,3 +1,6 @@
-*.cpp linguist-vendored
-*.cc linguist-vendored
-*.c linguist-vendored
+*.dart linguist-detectable=true
+android/** linguist-vendored
+ios/** linguist-vendored
+windows/** linguist-vendored
+linux/** linguist-vendored
+macos/** linguist-vendored
