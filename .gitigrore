@@ -1,0 +1,39 @@
+# Flutter/Dart/Pub
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+
+# Build files
+build/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# MacOS
+.DS_Store
+
+# Logs
+*.log
+
+# Generated plugin registrant
+lib/generated_plugin_registrant.dart
+
+# Flutter web
+web/.dart_tool
+
+# Android
+android/.gradle
+android/local.properties
+
+# iOS
+ios/Flutter/Flutter.framework
+ios/Flutter/App.framework
+
+# Node backend
+node_modules/
+
+# Environment files
+.env
